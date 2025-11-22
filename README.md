@@ -56,9 +56,6 @@ ecommerce-analysis/
 │   ├── data_merge.ipynb
 │   ├── analysis.ipynb
 │   └── preprocessing.ipynb
-├── src/ # 소스코드, 모듈 -> 안 되면 빼기
-│   ├── preprocessing.py
-│   └── visualization.py
 └── data/   (※ 실제 저장소에는 포함하지 않으며, .gitignore로 관리)
 ```
 
