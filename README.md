@@ -1,7 +1,7 @@
 # E‑Commerce Data Analysis
 
 > 본 프로젝트는 Olist가 제공하는 E‑Commerce Public Dataset을 활용하여
-이커머스 시장의 다양한 데이터 분석을 수행한 결과물입니다.
+이커머스 시장의 다양한 데이터 분석을 수행한 결과물입니다. 
 > 
 
 ---
